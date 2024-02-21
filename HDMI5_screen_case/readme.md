@@ -1,7 +1,8 @@
 # BTT HDMI Screen Case
 A case designed for the BTT HDMI5 touchscreen display.
-This is my remix of [this design](https://www.printables.com/model/586475-hdmi5-case-for-voron-24-300) on Printables, apart from a slight change to the asthetic I've eliminated the steep overhangs to improve printability.
+This is my remix of [this design](https://www.printables.com/model/586475-hdmi5-case-for-voron-24-300) on Printables, apart from a slight change to the aesthetic I've eliminated the steep overhangs to improve printability.
 
+![20240217_124559_1](https://github.com/gitgotgit/Voron_mods/assets/9074900/98535d76-eba0-48a4-9246-a8c4c46f862d)
 
 ![Screenshot 2024-02-21 102814](https://github.com/gitgotgit/Voron_mods/assets/9074900/da51dd48-aa61-444c-871f-6a965037ad5c)
 
