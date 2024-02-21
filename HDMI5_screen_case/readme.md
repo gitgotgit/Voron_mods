@@ -15,6 +15,7 @@ This is my remix of [this design](https://www.printables.com/model/586475-hdmi5-
 - 4 x M3x6mm FHCS
 - 4 x Voron M3 heatsets (5x4mm)
 
-For the cables I used FPC (Flexible Printed Circuit) flat ribbon cables with right angle connectors at the screen end, like these:
+For the cables I used FPC (Flexible Printed Circuit) flat ribbon cables with right-angle connectors at the screen end, like these (you can find these on AliExpress or Amazon):
+
 ![image](https://github.com/gitgotgit/Voron_mods/assets/9074900/cca4f486-5864-4c3c-a11d-1c6ddc0d4a07)
-You can find these on AliExpress or Amazon
+
